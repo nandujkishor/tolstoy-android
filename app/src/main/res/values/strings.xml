@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tolstoy</string>
+    <string name="title_activity_scanned_barcode">ScannedBarcodeActivity</string>
+</resources>
